@@ -1,0 +1,26 @@
+# Build e dependências do .NET
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+*.tlog
+
+# Azure Functions
+.local.settings.json
+extensions.csproj
+
+# OS
+.DS_Store
+Thumbs.db

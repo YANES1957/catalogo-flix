@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "catalogo_flix": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7116",
+      "launchBrowser": false
+    }
+  }
+}
