@@ -107,3 +107,4 @@ Preparado para deploy em Azure Functions sem alterações adicionais.
 Contato / Autor
 
 🟣 Desenvolvido por Roberto Césa Yanes – projeto pessoal para desafio técnico Microsoft.
+Teste commit assinado - Verified
